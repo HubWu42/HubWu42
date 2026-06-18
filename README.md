@@ -39,16 +39,7 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td valign="top">
-      <img height="170" alt="HubWu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HubWu42&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td valign="top">
-      <img height="170" alt="HubWu's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HubWu42&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<img height="170" alt="HubWu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HubWu42&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HubWu42&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
