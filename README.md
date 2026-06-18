@@ -6,7 +6,7 @@
 
 </div>
 
----
+<br/>
 
 ### 🧠 About Me
 
@@ -14,8 +14,6 @@
 - Full-stack across **Python · TypeScript · Rust · Go**
 - Independent developer — shipping products end-to-end
 - Interested in: multi-agent systems, developer tooling, edge compute
-
----
 
 ### 🛠️ Tech Stack
 
@@ -33,26 +31,20 @@
 
 </div>
 
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=HubWu42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HubWu42&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="165" alt="HubWu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HubWu42&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&card_width=460" />
+<img height="165" alt="HubWu's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HubWu42&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 
-</div>
-
-<div align="center">
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HubWu42&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
----
-
-### 🐍 Contribution Graph
+### 🐍 Contribution Snake
 
 <div align="center">
 
@@ -64,9 +56,8 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
 <sub>Building with 🤖 · Shipping with ☕</sub>
 </div>
-
